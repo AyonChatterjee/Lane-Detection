@@ -6,6 +6,8 @@ This project uses computer vision techniques to detect lane markings from road v
 
 The goal of this project is to process driving videos to detect lane lines in real-time. It uses edge detection, region of interest masking, and Hough Line Transform to identify lane markings and overlay them on the original video frames.
 
+![Demo](GIF/output_lane_detection-ezgif.com-video-to-gif-converter.gif)
+
 ## ⚙️ Technologies Used
 
 - **Python**
